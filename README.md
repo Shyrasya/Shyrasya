@@ -8,7 +8,7 @@
 
 | Стек | Проекты | Описание |
 | :--- | --- | --- |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | [Snake](https://github.com/Shyrasya/Snake) | Консольный классическй тетрис |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | [Tetris](https://github.com/Shyrasya/Snake) | Консольный классическй тетрис |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | [Snake](https://github.com/Shyrasya/Snake)<br> [3DViewer](https://github.com/Shyrasya/3DViewer) | Змейка (десктопная и консольная версия)<br> Программа, визуализирующая 3D-модель из obj-файла
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | |
 
