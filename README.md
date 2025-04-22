@@ -3,7 +3,7 @@
 # Привет! Я Саша! 👋
 
 </div>
-☕ Java | Spring | JUnit | SQL(PostgreSql) <br> 💼 Ищу работу на позицию "Junior Java Developer"
+☕ Java | Spring | JUnit | PostgreSql <br> 💼 Ищу работу на позицию "Junior Java Developer"
 <br> <br>
 
 Список моих проектов:
